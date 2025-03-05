@@ -1,2 +1,14 @@
+# Ambiente virtual
+venv/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+
+# Dependências de pacotes
 *.pyc
 __pycache__/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
