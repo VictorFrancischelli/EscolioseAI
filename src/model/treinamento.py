@@ -106,5 +106,6 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 # Treinamento do modelo
 train(model, train_loader, criterion, optimizer, num_epochs=10)
 
-# Após o treinamento, salvar o modelo
+# Salvando o modelo treinado
 torch.save(model.state_dict(), 'modelo_treinado.pth')
+print('Modelo treinado salvo com sucesso!')
