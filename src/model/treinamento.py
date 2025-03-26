@@ -106,6 +106,8 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 # Treinamento do modelo
 train(model, train_loader, criterion, optimizer, num_epochs=10)
 
-# Salvando o modelo treinado
-torch.save(model.state_dict(), 'modelo_treinado.pth')
-print('Modelo treinado salvo com sucesso!')
+# Pega o diretório raiz do projeto (2 níveis acima do diretório atual)
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+modelo_path = os.path.join(ROOT_DIR, 'modelo_treinado.pth')
+torch.save(model.state_dict(), modelo_path)
+print(f'Modelo treinado salvo com sucesso em: {modelo_path}')
