@@ -1,0 +1,256 @@
+image_path,label
+C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\a.jpg,grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N1, Rt TAIS, F, 15 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N1,S,20,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N10, Rt TAIS, M, 16 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N10,S,17,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N100, Rt TAIS, F, 21 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N101, Rt TAIS, F, 15  Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N102, Rt TAIS, F, 14 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N103, Rt TAIS, F, 16 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N104, Lt TL AIS, F, 20 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N105, Rt TAIS, F, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N106, Rt TAIS, M, 12 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N107, Rt TAIS, F, 13 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N108, Rt TAIS, F, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N109, Rt TAIS, F, 13 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N11, Rt TL AIS, F, 14 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N11,S,21,F_1_1.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N110, Rt TAIS, M, 17 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N111, Rt TAIS, F, 13 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N112, Rt TAIS, F, 14 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N113, Rt TL AIS, M, 15 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N114, Lt LAIS, F, 13 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N115, Rt T and Lt L AIS, F, 10 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N116, Rt TLAIS, F, 17 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N117, Rt TAIS, F, 12 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N118, Rt TAIS, F, 15 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N119, Rt AIS, M, 18 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N12, Lt TAIS, F, 12 yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N12,S,19,F_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N120, Rt T and Lt L AIS, F, 15 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N121, Lt TAIS, F, 18.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N122, Rt TAIS, F, 15 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N123, Rt TL AIS, F, 16 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N124, Rt T and Lt L AIS, M, 20 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N125, Rt TAIS, F, 15 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N126, Rt TAIS, F, 13 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N127, Rt TAIS, F, 18 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N128, Rt TAIS, F, 14 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N129, Lt TL AIS, F, 14 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N13, Rt T and Lt L AIS, F, 14 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N13, Rt T and Lt L AIS, M, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N13,S,15,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N130, Lt TAIS, F, 11 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N131, Rt TAIS, M, 15 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N132, Rt TAIS, M, 15 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N133, Rt TAIS, F, 14 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N134, Rt TAIS, F, 12 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N135, Lt T and Rt L AIS, F, 18 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N136, Rt TAIS, F, 13 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N137, Rt TAIS, F, 14 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N138, Rt TAIS, F, 15 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N139, Rt TAIS, F, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N14, Rt TAIS, F, 14 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N14,S,17,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N140, Rt TAIS, F, 15 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N141, Rt TAIS, F, 15 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N142, Rt TL AIS, F, 15 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N143, Rt TAIS, F, 14 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N144, Rt T and LT L AIS, M, 15 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N145, Rt TAIS, M, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N146, Rt TAIS, M, 16 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N147, Rt TL AIS, F, 17 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N15, Rt TAIS, F, 14 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N15,S,14,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N16, Rt TAIS, F, 15 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N16,S,14,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N17, Rt TAIS, F, 12 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N17,S,F.17_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N18, Rt TAIS, F, 14 yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N18,S,F,12_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N19, Rt TL AIS, F, 23 yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N19,S,5,F_1_1.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N2, Lt T and Rt L AIS, M, 17 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N2,S,5,F_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N20, Rt TAIS, F 17 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N20,S,F,35_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N21, Lt TL AIS, F, 14 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N21,S,16,F_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N22, Lt TL AIS, F, 14 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N22,S,12,M_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N23, Rt TAIS, F, 15 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N23,S,10,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N24, Lt TL AIS, F, 24 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N24,S,17,M_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N25, Rt T and Lt L AIS, F, 22 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N25,S,14,M_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N26, Rt TAIS, F, 11 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N26,S,15,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N27, Lt LAIS, F, 14 yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N27,S,35,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N28, Rt TAIS, F, 13 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N28,S,16,F_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N29,S,12,M_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N3, Lt TL AIS, F, 12 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N3,S,14,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N30, Rt T and Lt L AIS, F, 12 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N30,S,10,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N31, Lt LAIS, F, 15 yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N31,S,17,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N32, Rt TAIS, F, 13 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N32,S,10,F_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N33,S,15,M_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N34, Rt TAIS, M, 15 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N34,S,12,F_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N35, Rt TAIS, F, 15 yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N35,S,13,F_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N36, Rt TAIS, F, 12 yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N36,S,15,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N37, Lt TL AIS, F, 20 yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N37,S,12,M_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N38, Rt TAIS, F, 12 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N38,S,14,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N39,S,18,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N4, Rt TAIS, F, 12 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N4,S,16,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N40, Rt TAIS, F, 13 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N40,S,20,F_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N41, Rt TAIS, F, 13 yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N42, Rt TAIS, F, 14 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N43, Rt TAIS, F, 16 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N44, Rt TAIS, F, 11 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N45, Rt T and Lt L AIS, F, 13 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N46, Rt TAIS, F, 11 yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N47, Rt TAIS, F, 13 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N48, Rt TAIS, F, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N49, Rt TAIS, F, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N5, Rt TAIS, F, 13 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N5,S,16,F_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N50, Rt TAIS, F, 11 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N51, Rt TAIS, F, 14 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N52, Rt TAIS, F, 11 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N53, Lt LAIS, F, 18 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N54, Rt TAIS, F, 12 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N55, Lt TAIS, F, 15 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N56, Rt LAIS, M, 16 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N57, Rt TAIS, F, 15 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N58, Lt TL AIS, F, 14 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N59, Rt TAIS, F, 17 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N6, Rt TAIS, M, 16 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N60, Rt TAIS, M, 18 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N61, Rt TAIS, F 16 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N62, Rt TAIS, F, 16 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N63, Rt TAIS, F, 12 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N64, Rt TAIS, F, 15 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N65, Lt TAIS, M, 14 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N66, Rt TAIS, M, 12 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N67, Rt TAIS, F, 11 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N68, Rt TAIS, F, 12 yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N69, Rt TAIS, F, 14 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N7,S,12,F_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N70, Rt TAIS, F, 14 yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N71, Lt TL AIS, F, 16 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N72, Rt TAIS, F, 17 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N73, Lt LAIS, F, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N74, Rt TAIS, F, 14 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N75, Rt T and Lt L AIS, M, 17 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N76, Rt T and L L AIS, F, 13 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N77, Lt LAIS, F, 16 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N78, Rt TAIS, F, 12 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N79, Lt T and Rt L AIS, M, 15 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N8, Rt TAIS, M, 15 yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N8,S,14,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N80, Lt TAIS, M, 13 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N81, Rt TAIS, F, 12 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N82, Rt TAIS, F, 12 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N83, Rt TLAIS, F, 14 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N84, Rt TAIS, F, 13 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N85, Rt TAIS, F, 13 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N86, Rt TAIS, F, 13 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N87, Rt TAIS, F, 16 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N88, Rt TAIS, M, 15 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N89, Rt TAIS, F, 16 Yrs.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N9, Rt TAIS, F 13 yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N9,S,15,F_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N90, Rt TAIS, F, 14 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N91, Rt TAIS, M, 15 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N92, Lt LIS, F, 16 Yrs.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N93, Rt TL AIS, F, 14 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N94, Rt TAIS, F, 15 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N95,Rt TAIS, M, 15 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N96, Lt TL AIS, F, 16 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N97, Lt TAIS, F, 14 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N98, Rt TAIS, F, 14 Yrs.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\escoliose\N99, Rt TAIS, F, 17 Yrs.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N1,N,40,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N1,N,F,21_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N11,N,F,26_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N12,N,F,14_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N12,N,M,13_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N13,N,F,15_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N16,N,M,17_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N17,N,M,19_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N18,N,F,13_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N18,N,M,11_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N19,N,M,19_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N2,N,18,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N2,N,F,17_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N20,N,F,21_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N21,N,F,17_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N23,N,F,29_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N23,N,M,13_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N24,N,M,12_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N25,N,F,21_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N26,N,F,26_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N27,N,F,22_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N3,N,M,14_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N3,N,M,22_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N30,N,M,6_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N31,N,F,12 KA00594212_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N32,N,F,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N33,N,F,20_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N34,N,M,23_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N35,N,F,5_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N35,N,M,9 MONTHS_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N36,N,M,.23_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N37,N,M,15_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N38,N,F,11_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N38,N,F,33_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N39,N,M,5_1_2.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N4,N,18,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N4,N,M,6_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N40,N,F,25_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N41,N,F,22_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N43,N,F,24_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N44,N,M,8_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N45,N,M,36_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N46,N,M,22_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N47,N,F,21_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N49,N,F,50_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N5,N,14,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N5,N,F,31_1_0.jpg",grave
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N50,N,F,21_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N51,N,19,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N52,N,47,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N53,N,36,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N54,N,35,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N55,N,33,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N56,N,22,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N57,N,22,F_1_2.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N58,N,43,M_1_0.jpg",moderada
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N59,N,34M,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N6,N,17,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N6,N,F,15_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\n61,N,33,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N62,N,24,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N63,N,16,M_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N64,N,8,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N65,N,10,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N66,N,6,F_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N67,N,21,F_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N67,N,5,M_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N7,N,14,M_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N7,N,M,8_1_0.jpg",sem_escoliose
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N8,N,F,56_1_0.jpg",leve
+"C:\Users\Victo\OneDrive\Documentos\EscolioseAI\data\sem_escoliose\N9,N,F,13_1_0.jpg",sem_escoliose
