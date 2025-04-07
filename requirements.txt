@@ -18,3 +18,12 @@ sqlalchemy
 scikit-learn
 scipy
 seaborn
+
+fastapi
+uvicorn
+torch
+torchvision
+opencv-python
+numpy
+pillow
+python-multipart

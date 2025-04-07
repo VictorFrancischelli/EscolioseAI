@@ -7,7 +7,7 @@ call venv\Scripts\activate
 echo ================================
 echo  Iniciando treinamento do modelo
 echo ================================
-python -m src.model.treinamento
+python -m src.model.train
 
 echo ================================
 echo  Treinamento concluído!

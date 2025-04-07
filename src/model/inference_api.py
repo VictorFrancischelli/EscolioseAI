@@ -22,25 +22,13 @@ def preprocess_image(image_path):
     ])
     return transform(image).unsqueeze(0)
 
-# Função pra redimensionar a imagem pra exibição
-def resize_for_display(img, max_height=800):
-    h, w = img.shape[:2]
-    if h > max_height:
-        scale = max_height / h
-        new_h, new_w = int(h * scale), int(w * scale)
-        return cv2.resize(img, (new_w, new_h), interpolation=cv2.INTER_AREA)
-    return img
-
 # Função pra calcular o ângulo de Cobb e desenhar as marcações
-def detect_cobb_points(image_path, debug=True):
-    # (mantive a função original)
+def detect_cobb_points(image_path, output_dir="static"):
     if not os.path.exists(image_path):
-        print(f"Arquivo não encontrado: {image_path}")
         return None, None
     
     img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
     if img is None:
-        print(f"Erro ao carregar a imagem: {image_path}")
         return None, None
     
     original_img = img.copy()
@@ -54,7 +42,6 @@ def detect_cobb_points(image_path, debug=True):
             spine_centers.append((x_center, y))
     
     if len(spine_centers) < 5:
-        print(f"Falha na detecção: {image_path}")
         return None, None
     
     spine_centers = np.array(spine_centers)
@@ -75,7 +62,6 @@ def detect_cobb_points(image_path, debug=True):
             bottom_slopes.append((slope, i))
     
     if not top_slopes or not bottom_slopes:
-        print(f"Falha nas inclinações: {image_path}")
         return None, None
     
     top_slope, top_start_idx = max(top_slopes, key=lambda x: abs(x[0]))
@@ -107,17 +93,15 @@ def detect_cobb_points(image_path, debug=True):
     cv2.line(debug_img, (top_x_start, y_centers[0]), (bottom_x_end, y_centers[-1]), (0, 255, 0), 2)
     cv2.line(debug_img, (top_x_end, y_centers[0]), (bottom_x_start, y_centers[-1]), (0, 255, 0), 2)
     
-    if debug:
-        display_img = resize_for_display(debug_img)
-        cv2.imshow(f"Debug: Linha da Coluna - Ângulo de Cobb = {angle:.2f}°", display_img)
-        cv2.waitKey(0)
-        cv2.destroyAllWindows()
+    # Salvar a imagem processada
+    output_path = os.path.join(output_dir, f"processed_{os.path.basename(image_path)}")
+    cv2.imwrite(output_path, debug_img)
     
-    return angle, debug_img
+    return angle, output_path
 
 # Função principal pra inferir uma imagem
-def inferir_imagem(image_path):
-    angle, marked_image = detect_cobb_points(image_path)
+def inferir_imagem(image_path, output_dir="static"):
+    angle, marked_image_path = detect_cobb_points(image_path, output_dir)
     if angle is None:
         return None, None, "Erro ao processar a imagem"
     
@@ -128,38 +112,4 @@ def inferir_imagem(image_path):
     label_map = {0: "Sem escoliose", 1: "Escoliose leve", 2: "Escoliose moderada", 3: "Escoliose grave"}
     classification = label_map[predicted.item()]
     
-    print(f"Imagem: {os.path.basename(image_path)}")
-    print(f"Ângulo de Cobb: {angle:.2f}°")
-    print(f"Classificação: {classification}")
-    print()
-    
-    return angle, marked_image, classification
-
-if __name__ == "__main__":
-    # Caminho base para o diretório de dados
-    data_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'data'))
-    
-    # Caminhos para as pastas de escoliose e sem_escoliose
-    escoliose_path = os.path.join(data_path, 'escoliose')
-    sem_escoliose_path = os.path.join(data_path, 'sem_escoliose')
-    
-    # Listas para armazenar todos os caminhos de imagens
-    test_images = []
-    
-    # Adicionar imagens de escoliose
-    test_images.extend([
-        os.path.join(escoliose_path, img) 
-        for img in os.listdir(escoliose_path) 
-        if img.lower().endswith(('.jpg', '.jpeg', '.png', '.bmp', '.tiff'))
-    ])
-    
-    # Adicionar imagens sem escoliose
-    test_images.extend([
-        os.path.join(sem_escoliose_path, img) 
-        for img in os.listdir(sem_escoliose_path) 
-        if img.lower().endswith(('.jpg', '.jpeg', '.png', '.bmp', '.tiff'))
-    ])
-    
-    # Processar todas as imagens
-    for image in test_images:
-        angle, marked_image, classification = inferir_imagem(image)
+    return angle, marked_image_path, classification
